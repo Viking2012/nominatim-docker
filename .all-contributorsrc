@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "Viking2012",
+      "name": "Alexander Orban",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13614199?v=4",
+      "profile": "https://www.linkedin.com/in/alexanderorban/",
+      "contributions": [
+        "code",
+      ]
+    },
+    {
       "login": "winsento",
       "name": "Andrew",
       "avatar_url": "https://avatars.githubusercontent.com/u/2316328?v=4",
