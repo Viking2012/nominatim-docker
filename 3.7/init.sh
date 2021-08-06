@@ -63,6 +63,6 @@ rm /etc/postgresql/12/main/conf.d/postgres-import.conf
 echo "Deleting downloaded dumps in ${PROJECT_DIR}"
 rm -f ${PROJECT_DIR}/*sql.gz
 
-if [ "$PBF_URL" != "" ]; then
-	rm -f ${OSMFILE}
-fi
+# if [ "$PBF_URL" != "" ]; then
+# 	rm -f ${OSMFILE}
+# fi
